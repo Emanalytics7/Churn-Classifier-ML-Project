@@ -18,6 +18,10 @@ This repository contains the code for PowerCo's customer churn prediction projec
 ## **Hypothesis**
 `Price Sensitivity is the primary influencer of customer churn.` The analysis aims to quantify the extent to which price sensitivity contributes to customer attrition.
 
+## Analysis
+![image](https://github.com/user-attachments/assets/7640e7e4-6e11-4390-a7b1-9e0f0712cb0f)
+
+
 ## Results
 
 - **Churners in Test Set**: About 10% of the rows are churners (churn = 1).
